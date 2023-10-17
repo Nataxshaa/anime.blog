@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    padding: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 30%;
+
+}
+
+div{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 2%;
+}
+ header{
+    font-style: italic;
+    color: lightseagreen;
+ }
+.text-header{
+    position: relative;
+    top: 50%;
+    text-align: center;
+}
+
+aside{
+    row-gap: 1px;
+}
+.topic{
+    padding-bottom: 10px;
+    color: lightseagreen;
+    font-style: italic;
+    padding-right: 30px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main{
+    padding-left: 25px;
+}
+
+footer{
+    position: relative;
+    text-align: center;
+}
+
+#News{
+    row-gap: 15px;
+}
